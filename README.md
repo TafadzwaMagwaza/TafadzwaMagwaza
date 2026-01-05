@@ -1,7 +1,10 @@
 # 🚀 FULL STACK DEVELOPER
 ## 👋 Hi, I'm Tafadzwa Magwaza
 **Building scalable web apps | Clean code | Problem solver**
+
 📍 Polokwane, South Africa  | ✈️ Open to Remote & Relocation Opportunities 
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/magwaza)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/TafadzwaMagwaza)
