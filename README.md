@@ -99,7 +99,7 @@ Worked closely with designers, project managers, and clients to deliver producti
 ### 🛠 Tech Stack  
 **React, JavaScript, Node.js, Express, PostgreSQL, MySQL, MongoDB, REST APIs, JWT, OAuth2, Tailwind CSS, Figma, Selenium, Postman**
 
-### 🏥 Full Stack Developer | IT Systems Administrator  
+### 🏥 Full Stack Developer | Junior Web Developer/IT Support  
 **United Bulawayo Hospitals**  
 **🗓 Jan 2020 – Dec 2022**
 
